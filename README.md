@@ -42,14 +42,8 @@ estudos/
 ├── Python/
 │   └── Exercises, scripts and small projects
 │
-├── JavaScript/
-│   └── JavaScript studies and exercises
-│
-├── React/
-│   └── React applications and experiments
-│
-└── SQL/
-    └── Database queries and relational database studies
+└── JavaScript/
+    └── JavaScript, React and CSS studies and exercises
 ```
 
 > The structure may change over time as new subjects and technologies are added.
@@ -62,7 +56,6 @@ My current studies include:
 * Python
 * JavaScript
 * React
-* SQL and relational databases
 * Git & GitHub
 * Algorithms and data structures
 * Software development fundamentals
